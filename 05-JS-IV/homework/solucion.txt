@@ -1,0 +1,6 @@
+Objetos:
+Un objeto es un entidad que tiene propiedades(atributos) y metodos( acciones, funciones) como un carro que tiene color, modelo, velocidad, etc. (propiedades) y acelera, frena (metodos).
+La propiedades son caracteristicas propias de cada objeto
+Los metodos son funciones asociadas a un objeto.
+El bucle for in es una iteracion para cada atributos del objetos.
+la notacion de puntos es una manera de seleccionar elementos dentro de un objeto.
