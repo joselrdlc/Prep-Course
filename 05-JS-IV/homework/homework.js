@@ -67,7 +67,7 @@ function tieneEmail (usuario) {
   // Devuelve "true" si el usuario tiene un valor definido para la propiedad "email"
   // De lo contratio, devuelve "false"
   // Tu código:
-  if(usuario[email]){
+  if(usuario['email']){
     return true;
   }
   else{
@@ -109,7 +109,7 @@ function agregarAmigo (usuario, nuevoAmigo) {
   // Agrega "nuevoAmigo" al final de ese array
   // Devuelve el objeto "usuario"
   // Tu código:
-  usuario[amigos].push(nuevoAmigo);
+  usuario.amigos.push(nuevoAmigo);
   return usuario;
 }
 
@@ -150,7 +150,7 @@ function agregarMetodoCalculoDescuento (producto) {
   // producto.calcularPrecioDescuento() -> 20 - (20 * 0.2)
   // Tu código:
   producto.calcularPrecioDescuento = function(){
-    this.precio - (this.precio* this.porcentajeDeDescuento);
+    return this.precio - (this.precio* this.porcentajeDeDescuento);
   };
   return producto;
 }
