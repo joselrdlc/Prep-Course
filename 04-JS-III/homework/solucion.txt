@@ -1,0 +1,2 @@
+ARRAY
+un array es como una lista de elementos, cada elemento puede ser de distinto tipo de dato, se puede recorrer cada elemnto con un bucle, agregar, buscar eliminar.
