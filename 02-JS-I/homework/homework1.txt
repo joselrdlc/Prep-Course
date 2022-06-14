@@ -1,0 +1,14 @@
+Variables:
+son espacios de memoria separados con un nombre que almacenan un valor, para luego acceder a el, existen muchos tipos de variables como var, let y const, const es el unico caso que no se puede modificar el valor.
+
+Strings
+es un tipo de dato que almacena cadenas de caracteres, que tienen que estar dentor de comillas simples '' o dobles "".
+
+Funciones (argumentos, return)
+Una funcion es un bloque de codigo que es reusable las veces que quieras, te ayuda a ahorrar lineas de codigo, una funcion puede o no recibir argumentos que son variables que se usaran dentro de dicha funcion, tambien con la palabra reservada "return" dicha funcion debuelbe algo al ser llamada.
+
+Declaraciones if
+la declaracion if nos ayuda a comparar expreciones booleanas, para tomar deciciones, se pueden aninar. 
+
+Valores booleanos (true, false)
+los valores booleanos nos ayudan a relizar comparaciones condicionales, en javascript, los operadores relacionales al comparar datos numericos nos devuelven valores booleanos (true, false) 

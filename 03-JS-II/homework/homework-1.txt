@@ -1,0 +1,7 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+* `for`:
+Es un tipo de bucle en javascript, que ejecuta ciclos iterativos mientara se cumpla la condicion, la caracteristica de 'for' es que especificas cuando empiece y finalice el bucla y asi evita errores.
+
+* `&&`, `||`, `!`
+ son operadores logicos que evaluan y comparan expreciones logicas dando resultados booleanos como false y true.
